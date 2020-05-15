@@ -13,3 +13,5 @@ Suggests:
     knitr,
     rmarkdown
 VignetteBuilder: knitr
+URL: https://github.com/AnzaGhaffar/SorghumTestingData
+BugReports: https://github.com/AnzaGhaffar/SorghumTestingData/issues
