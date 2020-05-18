@@ -15,6 +15,7 @@ You can install the released version of SorghumTestingData from Github
 with:
 
 ``` r
+devtools::install_github("AnzaGhaffar/SorghumTestingData")
 install.packages("SorghumTestingData")
 ```
 
